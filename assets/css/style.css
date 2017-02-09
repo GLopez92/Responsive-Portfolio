@@ -68,7 +68,8 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
-  margin-right: 40px;
+  margin-right: 100px;
+  
 }
 nav a {
   display: inline-block;
@@ -246,19 +247,24 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 640px) {
-  .container{
-    max-width: 350px;
+  .header{
+    position: static;
   }
 
   .connect-pic{
-    margin-bottom: 20px;
+    width: 100%;
+    height: auto;
+
   }
 
 
   #logo{
     width: 100%;
   }
-  
+
+  .nav a{
+    margin-right: 100px;
+  }
   
 }
 
