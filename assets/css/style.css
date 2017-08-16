@@ -244,6 +244,10 @@ input[type=submit] {
     max-width: none;
   }
 
+   .nav{
+    font-size: 12px;
+  }
+
   .connect-pic{
     height: 250px;
     width: 300px;
