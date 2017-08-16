@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #777;
   line-height: 34px;
   background: url("../images/witewall_3/witewall_3_@2X.png");
@@ -66,6 +66,7 @@ h3 {
   background: #4aaaa5;
 }
 nav {
+  font-size: 12px;
   float: right;
   margin-top: 25px;
   margin-right: 100px;
@@ -73,8 +74,8 @@ nav {
 }
 nav a {
   display: inline-block;
-  margin-left: 10px;
-  padding-left: 10px;
+  margin-left: 15px;
+  padding-left: 15px;
   color: #999;
   text-decoration: none;
   line-height: 18px;
